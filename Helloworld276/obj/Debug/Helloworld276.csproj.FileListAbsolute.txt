@@ -1,0 +1,8 @@
+C:\Users\thora\source\repos\Helloworld276\Helloworld276\bin\Debug\Helloworld276.exe.config
+C:\Users\thora\source\repos\Helloworld276\Helloworld276\bin\Debug\Helloworld276.exe
+C:\Users\thora\source\repos\Helloworld276\Helloworld276\bin\Debug\Helloworld276.pdb
+C:\Users\thora\source\repos\Helloworld276\Helloworld276\obj\Debug\Helloworld276.csproj.AssemblyReference.cache
+C:\Users\thora\source\repos\Helloworld276\Helloworld276\obj\Debug\Helloworld276.csproj.SuggestedBindingRedirects.cache
+C:\Users\thora\source\repos\Helloworld276\Helloworld276\obj\Debug\Helloworld276.csproj.CoreCompileInputs.cache
+C:\Users\thora\source\repos\Helloworld276\Helloworld276\obj\Debug\Helloworld276.exe
+C:\Users\thora\source\repos\Helloworld276\Helloworld276\obj\Debug\Helloworld276.pdb
