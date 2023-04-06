@@ -12,6 +12,7 @@ namespace Helloworld276
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("This is locally modified file");
+            Console.WriteLine("This is remotely modified file");
             
         }
     }
